@@ -12,4 +12,4 @@ This graph shows the amount of times Obama used a specific word in his tweets of
 
 Here I compared how Obama used the same words in tweets a year later. Jan2012 refers to the amount he used the word in January of 2012, and Jan2013 refers to the amount he used the word in January of 2013.
 
-![Obama Word Comparison](https://github.com/NHendelman/HW02/blob/main/Obama12%2B13Graph.pdf)
+![Obama Word Comparison](https://github.com/NHendelman/HW02/blob/main/Screen%20Shot%202021-10-25%20at%207.18.23%20PM.png)
