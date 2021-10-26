@@ -10,6 +10,6 @@ This graph shows 6 words that Obama has used in his tweets of January 2012, and 
 
 ## **Word Usage Comaprison for Jan 2012 and Jan 2013**
 
-Here I compared how Obama used the same words in tweets a year later. I got again got the data from [Data.world's Obama dataset(tweets/2013_01.js](https://data.world/socialmediadata/obama-white-house-social-media-obamawhitehouse-tweets/workspace/file?filename=tweets%2F2013_01.js) Jan2012 refers to the amount he used the word in January of 2012, and Jan2013 refers to the amount he used the word in January of 2013. I was very surprised how the word "the" was used almost the same amount over both months.
+Here I compared how Obama used the same words in tweets a year later. The data comes from [data.world's Obama dataset(tweets/2013_01.js.](https://data.world/socialmediadata/obama-white-house-social-media-obamawhitehouse-tweets/workspace/file?filename=tweets%2F2013_01.js) Jan2012 refers to the amount he used the word in January of 2012, and Jan2013 refers to the amount he used the word in January of 2013. I was very surprised how the word "the" was used almost exactly the same amount over both months.
 
 ![Obama Word Comparison Jan 2012 vs Jan 2013](https://github.com/NHendelman/HW02/blob/main/ObamaTweetsComparisonGraph.png)
